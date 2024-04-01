@@ -1,5 +1,17 @@
 # @backstage/plugin-kubernetes-cluster
 
+## 0.0.10
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/catalog-model@1.4.5
+  - @backstage/core-components@0.14.3
+  - @backstage/core-plugin-api@1.9.1
+  - @backstage/plugin-catalog-react@1.11.3
+  - @backstage/plugin-kubernetes-common@0.7.5
+  - @backstage/plugin-kubernetes-react@0.3.3
+
 ## 0.0.9
 
 ### Patch Changes

@@ -1,5 +1,28 @@
 # @backstage/plugin-catalog-backend
 
+## 1.21.1
+
+### Patch Changes
+
+- cfdc5e7: Fixes an issue where `/analyze-location` would incorrectly throw a 500 error on an invalid url.
+- Updated dependencies
+  - @backstage/backend-common@0.21.7
+  - @backstage/integration@1.10.0
+  - @backstage/backend-openapi-utils@0.1.10
+  - @backstage/backend-plugin-api@0.6.17
+  - @backstage/backend-tasks@0.5.22
+  - @backstage/catalog-client@1.6.3
+  - @backstage/catalog-model@1.4.5
+  - @backstage/config@1.2.0
+  - @backstage/errors@1.2.4
+  - @backstage/types@1.1.1
+  - @backstage/plugin-catalog-common@1.0.22
+  - @backstage/plugin-catalog-node@1.11.1
+  - @backstage/plugin-events-node@0.3.3
+  - @backstage/plugin-permission-common@0.7.13
+  - @backstage/plugin-permission-node@0.7.28
+  - @backstage/plugin-search-backend-module-catalog@0.1.22
+
 ## 1.21.0
 
 ### Minor Changes
